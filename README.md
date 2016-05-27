@@ -4,8 +4,8 @@ Tradução do manual Zend Framework 2
 Manual feito pela comunidade para tradução do manual do Zend Framework 2
 
 ## Introdução ao Zend Framework 2
-  * [Visão Geral](https://github.com/mauraodev/zf2-manual-portugues/blob/master/guia-rapido/zend-framework-mvc-introducao.md)
-  * [Instalação](https://github.com/mauraodev/zf2-manual-portugues/blob/master/guia-rapido/instalacao.md)
+* [Visão Geral](https://github.com/mauraodev/zf2-manual-portugues/blob/master/guia-rapido/zend-framework-mvc-introducao.md)
+* [Instalação](https://github.com/mauraodev/zf2-manual-portugues/blob/master/guia-rapido/instalacao.md)
 
 ## Guia do Usuário
 
